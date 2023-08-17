@@ -1,0 +1,5 @@
+To jest nowa zawartość.
+Nowa linia pliku
+i kolejna
+
+KONIEC!
